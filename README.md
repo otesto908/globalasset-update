@@ -1,0 +1,1 @@
+# globalasset-update
